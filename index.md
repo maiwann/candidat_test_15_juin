@@ -122,10 +122,11 @@ Prenez contact rapidement avec des personnes volontaires sur <a href="https://ac
 
 <section class="inscription">
 
+<h2>Où voter ?</h2>
+
 <ul>
 <li>Vous ne savez pas quel est votre bureau de vote ?</li>
 <li>Vous n'êtes pas sûr·es d'être inscrit·e ?</li>
-<li>Vous voulez retrouver votre numéro d'électeur·ice pour faire une procuration ?</li>
 </ul>
 
 Retrouvez vos informations pour <strong>voter les 30 juin et 7 juillet</strong> sur <a href="https://www.service-public.fr/particuliers/vosdroits/R51788">Service-Public.fr</a>
