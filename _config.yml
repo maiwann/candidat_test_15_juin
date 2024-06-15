@@ -4,3 +4,4 @@ collections:
 plugins:
   - jekyll-feed
 theme: roz-aer
+baseurl: /candidat_test_15_juin
